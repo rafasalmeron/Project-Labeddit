@@ -51,7 +51,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ![image](https://user-images.githubusercontent.com/94733546/161575197-c4a2f20d-61b8-48fb-9a7b-000a902c790d.png)
 ![image](https://user-images.githubusercontent.com/94733546/161575254-ae767a09-22de-4eed-a019-bc54f7be1447.png)
 ![image](https://user-images.githubusercontent.com/94733546/161575328-451892c6-725e-4121-b20c-66b7e18a3302.png)
-![image](https://user-images.githubusercontent.com/94733546/161575407-32aec21c-6409-4c72-9c15-df1c34f715f4.png)
+![image](https://user-images.githubusercontent.com/94733546/161577161-1e7b2f91-332a-4450-921e-50c5cc456168.png)
+
 
 <h2 id="requisitos">:leftwards_arrow_with_hook: Pré-requisitos</h2>
 
@@ -83,31 +84,10 @@ $ npm run start
 
 <table> 
 <tr>
-
-<td align="center"><a href="https://github.com/Raquelmms"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/85976494?v=4" width="100px" alt=""/>
- <br />
- <sub><b>Raquel Martins</b></sub></a> <a href="https://github.com/Raquelmms"></a></td>
-
- <td align="center"><a href="https://github.com/FillipeCO"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/87552890?v=4" width="100px" alt=""/>
- <br />
- <sub><b>Fillipe Dias Correia</b></sub></a> <a href="https://github.com/FillipeCO"></a></td>
-
-
  <td align="center"><a href="https://github.com/rafasalmeron"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/94733546?v=4" width="100px" alt=""/>
  <br />
  <sub><b>Rafael Salmeron</b></sub></a> <a href="https://github.com/rafasalmeron"></a></td>
- 
- <td align="center"><a href="https://github.com/jardell13"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/86195881?v=4" width="100px" alt=""/>
- <br />
- <sub><b>Jardel Santos</b></sub></a> <a href="https://github.com/jardell13"></a></td>
- 
-  <td align="center"><a href="https://github.com/Anderson-Felix-de-Lyra"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/94788717?v=4" width="100px" alt=""/>
- <br />
- <sub><b>Anderson Felix</b></sub></a> <a href="https://github.com/Anderson-Felix-de-Lyra"></a></td>
-
-
 </tr>
-
 </table>
 
 👋🏽 Entre em contato!
