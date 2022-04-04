@@ -80,7 +80,7 @@ $ npm run start
 ```
 
 
-<h2 id="desenvolvedores">:construction_worker: Desenvolvedores</h2>
+<h2 id="desenvolvedor">:construction_worker: Desenvolvedores</h2>
 
 <table> 
 <tr>
